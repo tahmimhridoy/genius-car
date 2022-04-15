@@ -1,0 +1,15 @@
+.login-form{
+    margin-bottom: 50px;
+    padding: 30px;
+    box-shadow: 5px 6px 17px -8px black;
+    background-color: aquamarine;
+}
+.login-form input:not([type=checkbox]){
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    height: 45px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 3px;
+}

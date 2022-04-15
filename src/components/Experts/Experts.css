@@ -1,0 +1,7 @@
+.experts{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 45px;
+    margin: 40px 50px;
+    text-align: center;
+}
